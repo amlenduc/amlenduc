@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amlenduc
-- 👀 I’m interested in open source, big data and cloud 
+- 👀 I’m interested in open source, big data and cloud Technologies
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
